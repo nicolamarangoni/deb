@@ -1,10 +1,10 @@
-Package: hsqldb-server
+Package: h2-server
 Version: 0.1-1
 Section: base
 Priority: optional
 Architecture: all
-Depends: libhsqldb-java
+Depends: libh2-java
 Maintainer: Nicola Marangoni <nicola.marangoni@gmail.com>
-Description: HSQLDB Server
- A HSQLDB network server supporting connections ovet TCP
+Description: H2 Server
+ A H2 network server supporting connections ovet TCP
  A systemd service is also installed
