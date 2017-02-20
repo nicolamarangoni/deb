@@ -1,0 +1,10 @@
+Package: hsqldb-server
+Version: 0.1-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: libhsqldb-java
+Maintainer: Your Name <nicola.marangoni@gmail.com>
+Description: HSQLDB Server
+ A HSQLDB network server supporting connections ovet TCP
+ A systemd service is also installed
